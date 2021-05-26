@@ -1,13 +1,3 @@
-/***
-Camilla Scheffer Bergman, casc7759
-parse and evaluate added.
-***/
-/***
-A skeleton for Assignment 2 on PROP HT2020.
-Peter Idestam-Almquist, 2020-12-09.
-***/
-
-
 
 /*** 
 Load the tokenizer (tokenize/2) and the file_writer (write_to_file/3).
